@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dwq64gypyp7gm"]
+
+[node name="Node2D" type="Node2D" unique_id=1299257881]
+
+[node name="Label" type="Label" parent="." unique_id=996395889]
+offset_left = 527.76434
+offset_top = 296.47748
+offset_right = 567.76434
+offset_bottom = 319.47748
+text = "Hello Ung  26"
